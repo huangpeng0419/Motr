@@ -1,8 +1,0 @@
-D:\MySource\Peng系列\Motr\Motr\bin\Debug\Motr.dll
-D:\MySource\Peng系列\Motr\Motr\bin\Debug\Motr.pdb
-D:\MySource\Peng系列\Motr\Motr\bin\Debug\Aspose.Cells.dll
-D:\MySource\Peng系列\Motr\Motr\bin\Debug\Aspose.Slides.dll
-D:\MySource\Peng系列\Motr\Motr\bin\Debug\Aspose.Words.dll
-D:\MySource\Peng系列\Motr\Motr\obj\Debug\Motr.dll
-D:\MySource\Peng系列\Motr\Motr\obj\Debug\Motr.pdb
-D:\MySource\Peng系列\Motr\Motr\obj\Debug\Motr.csprojResolveAssemblyReference.cache
